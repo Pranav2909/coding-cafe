@@ -8,4 +8,14 @@
 
 5.) .gitignore must be committed, this is to ensure that this list of files and folders is ignored and not considered for git commit.
 
-6.) README.md moved from Untracked files to Changes to be committed, as we added README.md to git it committed previously it was untracked.
+6.) README.md moved from "Untracked files" to "Changes to be committed", as we added README.md to git it committed, previously it was untracked.
+
+7.) Git printed create mode 100644 and the file/folder name for all 5 items (3 folders and 2 files).
+
+8.) The first seven characters are called short commit hash (or short SHA-1 / commit SHA). They are used to identify files/folders which are committed.
+
+9.) i. check git status | ii. git add file name | iii. git commit -m "name"| iv. git log --online.
+
+10.) README.md is a document which gives a brief about the user and the file that the user is about to write about.
+
+11.) gh auth login is used to link our Github account with our local git repository, while pushing our repositroy into our github accoutn it doesn't repeatedly ask for password.
