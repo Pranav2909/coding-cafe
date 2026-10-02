@@ -1,0 +1,156 @@
+    1  python3 --version
+    2  exit
+    3  passwd
+    4  wsl -d Ubuntu -u root
+    5  passwd
+    6  ```powershell
+    7  pwd
+    8  ls
+    9  ls -a
+   10  ls -l
+   11  ```
+   12  exit
+   13  powershell
+   14  pwd
+   15  cd "D:\Plaksha\Semester-1\Coding Café (FM102)\Week-1"
+   16  pwd
+   17  cd "D:\Plaksha\Semester-1\Coding Café (FM102)\Week-1"
+   18  pwd
+   19  ls
+   20  mv README-backup.md Week-2\
+   21  cp README.md README-backup.md
+   22  mv README-backup.md Week-2\
+   23  mv README-backup.md Week-1\
+   24  mv README-backup.md Week-2\
+   25  cp README.md README-backup.md
+   26  mv README-backup.md Week-2\
+   27  cp README.md README-backup.md
+   28  mv README-backup.md Week-2\
+   29  cp README.md README-backup.md
+   30  mv "D:\Plaksha\Semester-1\Coding Café (FM102)\Week-1\README-backup.md" "D:\Plaksha\Semester-1\Coding Café (FM102)\Week-2\"
+   31  cd
+   32  coding-cafe
+   33  cd coding-cafe
+   34  ls -a
+   35  ls
+   36  which python3
+   37  echo $PATH
+   38  history
+   39  clear
+   40  history
+   41  cd .
+   42  cd %userprofile%
+   43  cd %pranav%
+   44  cd %PRANAV%
+   45  cd ~
+   46  cd
+   47  ls
+   48  ls -a
+   49  ls
+   50  ls -a
+   51  cd /mnt/c/Users/prana/coding-cafe
+   52  apt install python3.14-venv
+   53  pwd
+   54  ls
+   55  ls -a
+   56  ls -l
+   57  mkdir coding-cafe
+   58  cd coding-cafe
+   59  mkdir week01
+   60  mkdir week02
+   61  cd week02
+   62  touch notes.md
+   63  ls coding-cafe/week02
+   64  cd coding-cafe
+   65  cd
+   66  cd /mnt/c/Users/prana/
+   67  ls coding-cafe/week02
+   68  ls -R coding-cafe
+   69  cd coding-cafe
+   70  cp README.md README-backup.md
+   71  touch README.md
+   72  cp README.md README-backup.md
+   73  mv README-backup.md week01/
+   74  cd week01
+   75  mv README-backup.md old-readme.md
+   76  ls
+   77  rm old-readme.md
+   78  echo $PATH
+   79  which python3
+   80  which pip
+   81  pyton3
+   82  which pyton3
+   83  cd ~/coding-cafe
+   84  cd
+   85  cd /mnt/c/Users/prana/coding-cafe/
+   86  python3 -m venv .venv
+   87  apt install python3.14-venv
+   88  cd
+   89  apt install python3.14-venv
+   90  sudo apt update && sudo apt install python3-venv -y
+   91  python3 --version
+   92  cd /mnt/c/Users/prana/coding-cafe/
+   93  python3 -m venv .venv
+   94  cd
+   95  ls
+   96  ls -a
+   97  ls -R
+   98  mkdir fg
+   99  cd
+  100  python3 -m venv .venv
+  101  ls
+  102  ls- a
+  103  ls -a
+  104  pwd
+  105  ls
+  106  ls -a
+  107  ls -l
+  108  cd
+  109  ls
+  110  ls -a
+  111  pwd
+  112  ls -l
+  113  ls -a
+  114  mkdir coding-cafe
+  115  cd coding-cafe
+  116  mkdir week01
+  117  mkdir week02
+  118  touch README.md
+  119  cd 
+  120  ls coding-cafe/week02
+  121  cd ~
+  122  ls coding-cafe/week02
+  123  ls -R coding-cafe
+  124  cp README.md README-backup.md
+  125  cd coding-cafe
+  126  cp README.md README-backup.md
+  127  mv README-backup.md week01/
+  128  cd week01
+  129  mv README-backup.md old-readme.md
+  130  ls
+  131  rm old-readme.md
+  132  ls
+  133  echo $PATH
+  134  which python3
+  135  which pip
+  136  which ls
+  137  pyton3
+  138  cd coding-cafe
+  139  cd
+  140  cd coding-cafe
+  141  python3 -m venv .venv
+  142  ls
+  143  ls -a
+  144  source .venv/bin/activate
+  145  which python3
+  146  pip list
+  147  pip install requests
+  148  pip list
+  149  deactivate
+  150  which python3
+  151  man ls
+  152  man man
+  153  cd cod
+  154  history
+  155  python3
+  156  history > week02/lab01-log.txt
